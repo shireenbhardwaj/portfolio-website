@@ -36,7 +36,7 @@
         "title": "NYC Buildings",
         "year": "May 2024",
         "tags": ["Power BI", "DAX", "Excel"],
-        "description": "APower BI Dashboard detailing building permits, violations, and construction trends to support urban development and regulatory compliance.",
+        "description": "A Power BI Dashboard detailing building permits, violations, and construction trends to support urban development and regulatory compliance.",
         "github": "https://github.com/shireenbhardwaj/nyc-buildings-powerbi-dashboard",
         "image": "/assets/other-projects/nycbuildings.PNG",
         "jpg": "/assets/other-projects/nycbuildings.PNG"
