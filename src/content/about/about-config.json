@@ -94,7 +94,8 @@
             "tools": [
                 "Snowflake",
                 "Salesforce.com",
-                "Apache Airflow",
+                "Azure",
+                "AWS",
                 "Hubspot",
                 "Microsoft SQL Server",
                 "Marketo"
