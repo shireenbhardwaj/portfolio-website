@@ -1,64 +1,55 @@
 [
     {
-        "id": "featured-project-trackcta",
-        "title": "trackCTA",
-        "year": "Dec 2021 - Present",
-        "location": "Chicago",
-        "demo": "https://www.trackcta.com/",
-        "github": "https://github.com/hrishikeshpaul/trackcta",
-        "tags": ["React", "TypeScript", "NodeJS", "Web Sockets", "i18n", "Google Maps", "GCP", "CI/CD", "Shell"],
-        "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
-        "image": "/assets/featured-projects/trackcta.webp",
-        "jpg": "/assets/featured-projects/trackcta.jpeg"
+        "id": "featured-project-feastfleet",
+        "title": "Feast Fleet",
+        "year": "Sep 2024 - Dec 2024",
+        "location": "Boston",
+        "demo": "https://docs.google.com/presentation/d/1rqB_MzDPAMHXaQ_XbvUj7SGzogVOvp8Z/edit?usp=sharing&ouid=102141272048718845583&rtpof=true&sd=true",
+        "github": "https://github.com/shireenbhardwaj/Feast-Fleet",
+        "tags": ["MySQL", "ER Diagrams", "Schema", "Normalization", "Indexing", "Query Optimization", "Foreign Keys, Constraints"],
+        "description": "A comprehensive relational database for modern food delivery services.",
+        "image": "/assets/featured-projects/FeastFleet.png",
+        "jpg": "/assets/featured-projects/FeastFleet.png"
     },
     {
-        "id": "featured-project-asctb-reporter",
-        "title": "ASCT+B Reporter",
-        "year": "Jun 2020 - Jun 2021",
-        "location": "Indiana University",
-        "demo": "https://hubmapconsortium.github.io/ccf-asct-reporter/",
-        "github": "https://github.com/hrishikeshpaul/ccf-asct-reporter",
-        "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
-        "description": "A collaboration with the NIH to build visualization tool to envision large biomedical datasets for researchers, doctors and experts.",
-        "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
-        "image": "/assets/featured-projects/asctb.webp",
-        "jpg": "/assets/featured-projects/asctb.jpeg"
-    },
+        "id": "featured-project-employee-churn",
+        "title": "Predicting Employee Churn Using Machine Learning",
+        "year": "May 2024 - June 2024",
+        "location": "Boston",
+        "demo": "https://employee-churn-prediction-using-ml.streamlit.app/",
+        "github": "https://github.com/shireenbhardwaj/EmployeeChurnPrediction-using-MachineLearning",
+        "tags": [
+          "Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn", "XGBoost", "Machine Learning", "Data Analysis", "Streamlit"
+        ],
+        "description": "A Streamlit web app that leverages XGBoost to forecast employee churn from key employee metrics.",
+        "image": "/assets/featured-projects/f2.png",
+        "jpg": "/assets/featured-projects/f2.png"
+      },
     {
-        "id": "featured-project-scrapbook",
-        "title": "Scrapbook",
-        "year": "Jan 2021 - May 2021",
-        "location": "Indiana University",
+        "id": "featured-project-EV-ChargingStations",
+        "title": "Gap Analysis: Electric Vehicle and Charging Stations",
+        "year": "Jan 2024 - Apr 2024",
+        "location": "Northeastern University",
 
         "tags": [
-            "Angular 11",
-            "Flask",
-            "Node",
-            "Python",
-            "TypeScript",
-            "Docker",
-            "Docker Hub",
-            "Jenkins",
-            "Kubernetes",
-            "GKE",
-            "GCP"
+            "Tableau", "Python", "Google Colab", "Regression Model", "Forecasting"
         ],
-        "demo": "http://34.69.102.109/",
-        "github": "https://github.com/hrishikeshpaul/scrapbook",
-        "description": "A micro-service architecture based web application that enables users to upload, share and manage images.",
-        "readMore": "https://hrishikeshpaul.medium.com/scrapbook-a-micro-service-based-photo-sharing-application-3a8760681af6",
-        "image": "/assets/featured-projects/scrapbook.webp",
-        "jpg": "/assets/featured-projects/scrapbook.jpeg"
+        "demo": "https://docs.google.com/presentation/d/1T_l9F0udH-UvfbHwRrSIRkH8v51lMJbP/edit?usp=sharing&ouid=102141272048718845583&rtpof=true&sd=true",
+        "github": "https://github.com/shireenbhardwaj/electricvehicle-chargingstations-analysis",
+        "description": "Analyzed the gap between electric vehicle growth and charging infrastructure and uncovered key insights using Tableau dashboards.",
+        "readMore": "https://docs.google.com/document/d/1jqCRDEjffm_At83rfWNK7eGZXNnIAxgp/edit?usp=sharing&ouid=102141272048718845583&rtpof=true&sd=true",
+        "image": "/assets/featured-projects/f3.png",
+        "jpg": "/assets/featured-projects/f3.png"
     },
     {
-        "id": "featured-project-measure-ux",
-        "location": "Indiana University",
-        "title": "Measuring User Experience",
-        "year": "Sep 2020 - Dec 2020",
-        "tags": ["UX Research", "User Journey", "Experience Mapping", "Surveys", "Interviews", "Adobe XD"],
-        "description": "A project to quantify user experiences demonstrated by measuring the user experience of uploading a photo on Instagram.",
-        "readMore": "https://hrishikeshpaul.medium.com/measuring-user-experience-an-instagram-case-study-89bfb78f2c6b",
-        "image": "/assets/featured-projects/measure-ux.webp",
-        "jpg": "/assets/featured-projects/measure-ux.jpeg"
+        "id": "featured-project-measure-divvybikes",
+        "location": "Northeastern University",
+        "title": "Divvy Bikes Dashboard",
+        "year": "June 2024",
+        "tags": ["Microsoft Power BI", "Microsoft Excel", "DAX Functions", "Schema"],
+        "github": "https://github.com/shireenbhardwaj/divvy-bikes-interactive-dashboard",
+        "description": "An interactive PowerBI dashboard to track and understand Divvy Bikes demand in Chicago.",
+        "image": "assets/featured-projects/f4.png",
+        "jpg": "assets/featured-projects/f4.png"
     }
 ]

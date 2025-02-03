@@ -1,58 +1,44 @@
 [
     {
-        "id": "capstone-project-linxup",
-        "title": "Linxup Sales Analysis",
-        "year": "Sep 2024 – Dec 2024",
-        "tags": ["Python", "SQL", "Tableau", "Time Series Analysis"],
-        "description": "Analyzed data from Snowflake across three large datasets using Python and SQL; conducted time series analysis to evaluate monthly revenue fluctuations and customer tenure impact on upsell timing. Built a LightGBM model to predict upsell/churn likelihood by industry; visualized findings in Tableau and delivered actionable recommendations for customer segmentation for targeted marketing strategies and ROI.",
-        "image": "/assets/capstone/linxup.webp",
-        "jpg": "/assets/capstone/linxup.jpeg"
+        "id": "other-project-linxup",
+        "title": "Linxup: Sales Analysis",
+        "year": "Sep 2024 - Dec 2024",
+        "location": "Boston",
+        "demo": "https://docs.google.com/presentation/d/1-08KTWArQWI3YAsXCFt0-8m452dhkiQU/edit?usp=sharing&ouid=102141272048718845583&rtpof=true&sd=true",
+        "github": "https://github.com/shireenbhardwaj/linxup-sales-analysis",
+        "tags": ["Python", "LightGBM", "Tableau", "MS Excel", "Pivot Tables", "VLOOKUP", "Google Colab"],
+        "description": "A capstone project with Linxup, a vehicle tracking solutions company, to segment customers using historical sales data for targeted marketing campaigns and, to promptly identify timelines for potential upsell opportunities.",
+        "image": "/assets/featured-projects/f1.png",
+        "jpg": "/assets/featured-projects/f1.png"
     },
     {
-        "id": "capstone-project-ev-gap",
-        "title": "Gap Analysis in Electric Vehicle Charging Infrastructure",
+        "id": "other-project-image-forgery",
+        "title": "Image Forgery Detection using Deep Learning",
         "year": "Jan 2024 – Apr 2024",
-        "tags": ["Statistical Analysis", "Python", "Power BI", "Tableau"],
-        "description": "Led a 4-member team to analyze 100,000+ data points; used Python libraries (pandas, numpy, matplotlib, seaborn, scikit-learn) for data cleaning and manipulation, Scipy for hypothesis testing, Statsmodels for linear regression models and forecasting infrastructure demand, and Tableau and Power BI to visualize trends. Delivered data-driven recommendations on state-specific charging station needs to align with EV adoption trends.",
-        "image": "/assets/capstone/ev-gap.webp",
-        "jpg": "/assets/capstone/ev-gap.jpeg"
+        "tags": ["Python", "ResNet-101", "CNN", "Django", "Google Colab", "Image Processing", "Keras", "Scikit-Learn"],
+        "description": "Detecting image splicing and copy-move forgery using deep learning to combat misinformation and cyber threats.",
+        "github": "https://github.com/shireenbhardwaj/ImageSplicing-DeepLearning",
+        "image": "/assets/other-projects/imageforgery.png",
+        "jpg": "/assets/other-projects/imageforgery.png"
     },
     {
-        "id": "other-project-bank-compare",
-        "title": "Experience Design Anaysis",
-        "year": "Aug 2019 - Dec 2019",
-        "tags": ["UX Design", "Analysis", "Adobe XD", "Mockups"],
-        "description": "This project demonstrates how the selection of colors, fonts, shapes, languages, layout and other styles can lead to drastically different user experiences, by comparing landing pages of 3 bank websites built from scratch.",
-        "readMore": "https://drive.google.com/file/d/1GY2WmRZgvBgFx6OlAMcAj8_DQVmS5VBw/view",
-        "image": "/assets/other-projects/bank.webp",
-        "jpg": "/assets/other-projects/bank.jpeg"
+        "id": "other-project-mental-health",
+        "title": "Impact of Mental Health on Academic Performance",
+        "year": "Sep 2023 - Dec 2023",
+        "tags": ["Python", "Power BI", "Exploratory Data Analysis", "Statistical Modeling", "Jupyter Notebook"],
+        "description": "This project explores mental health trends among students using multiple survey datasets and visualizes the insights using a Power BI dashboard.",
+        "github": "https://github.com/shireenbhardwaj/MentalHealth-on-AcademicPerformance",
+        "image": "/assets/other-projects/mentalhealth.png",
+        "jpg": "/assets/other-projects/mentalhealth.png"
     },
     {
-        "id": "other-project-bunder",
-        "title": "Bunder",
-        "year": "Jan 2020 - Apr 2020",
-        "tags": ["Surveying", "User Interviews", "Ideation", "Analysis", "Product Planning"],
-        "description": "An MVP Proposal - Bunder is an intuitive web platform for micro-communities to share sensitive data with privacy within the community and allow engagement amongst them.",
-        "readMore": "https://drive.google.com/file/d/1sj9wL7uEokNpk6VUu3nsiPHf3TZeu4lT/view?usp=sharing",
-        "image": "/assets/other-projects/bunder.webp",
-        "jpg": "/assets/other-projects/bunder.jpeg"
-    },
-    {
-        "id": "other-project-suicide-analyzer",
-        "title": "Suicide Analyzer",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "This is a web application, uses a map to demonstrate the number suicides committed around the globe, according to a dataset provided by the WHO.",
-        "github": "https://github.com/hrishikeshpaul/whodata",
-        "image": "/assets/other-projects/suicide-analyzer.webp",
-        "jpg": "/assets/other-projects/suicide-analyzer.jpeg"
-    },
-    {
-        "id": "other-project-nutricare",
-        "title": "Nutricare",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "A web app for patients to input nutrient intake data and researchers to analyse the data with the help of graphs and tables. A researcher can conduct studies on N different subjects for a particular problem statement.",
-        "readMore": "https://angel.co/projects/576300-nutricare",
-        "image": "/assets/other-projects/nutricare.webp",
-        "jpg": "/assets/other-projects/nutricare.jpeg"
+        "id": "other-project-nycbuildings",
+        "title": "NYC Buildings",
+        "year": "May 2024",
+        "tags": ["Power BI", "DAX", "Excel"],
+        "description": "APower BI Dashboard detailing building permits, violations, and construction trends to support urban development and regulatory compliance.",
+        "github": "https://github.com/shireenbhardwaj/nyc-buildings-powerbi-dashboard",
+        "image": "/assets/other-projects/nycbuildings.PNG",
+        "jpg": "/assets/other-projects/nycbuildings.PNG"
     }
 ]
