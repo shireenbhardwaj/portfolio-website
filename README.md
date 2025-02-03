@@ -1,7 +1,7 @@
 # Portfolio Template 🖐
 > Version 2 of a simple, minimal and responsive personal website template, built using React, TypeScript, HTML, and SCSS.
 
-💻  Live [demo](https://portfolio-template-v2-three.vercel.app/)
+💻  Live [demo](https://shireen-bhardwaj-portfolio.vercel.app/)
 
 ---
 
@@ -22,10 +22,10 @@
 Clone repository
 
 ```shell
-$ git clone https://github.com/utkarshgogna1/portfolio-template-v2.git
+$ git clone https://github.com/shireenbhardwaj/portfolio-website.git
 
 > To install the node packages used in the project:
-$ cd portfolio-template-v2
+$ cd portfolio-website
 $ yarn install
 > Compiles and hot-reloads for development:
 $ yarn start
@@ -46,9 +46,7 @@ Create a pull request.
 
 
 ### Summary of Changes:
-1. Updated repository links to https://github.com/utkarshgogna1/portfolio-template-v2 .
-2. Updated copyright details to "Utkarsh Gogna".
-
-Let me know if you need further modifications or if you'd like assistance with anything else!
+1. Updated repository links to https://github.com/shireenbhardwaj/portfolio-website.git
+2. Updated copyright details to "Shireen Bhardwaj".
 
 
